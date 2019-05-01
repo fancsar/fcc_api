@@ -1,0 +1,329 @@
+2019-04-29 16:31:23,569 - test_login - INFO - 准备测试前置 - do_logging.py: 44 
+2019-04-29 16:31:23,572 - test_login - INFO - 开始测试正常登陆 - do_logging.py: 44 
+2019-04-29 16:31:23,752 - test_login - INFO - 结束测试正常登陆 - do_logging.py: 44 
+2019-04-29 16:31:23,754 - test_login - INFO - 开始测试输入错误的密码 - do_logging.py: 44 
+2019-04-29 16:31:23,873 - test_login - INFO - 结束测试输入错误的密码 - do_logging.py: 44 
+2019-04-29 16:31:23,876 - test_login - INFO - 开始测试不输入密码 - do_logging.py: 44 
+2019-04-29 16:31:23,995 - test_login - INFO - 结束测试不输入密码 - do_logging.py: 44 
+2019-04-29 16:31:23,997 - test_login - INFO - 开始测试不输入手机号码 - do_logging.py: 44 
+2019-04-29 16:31:24,128 - test_login - INFO - 结束测试不输入手机号码 - do_logging.py: 44 
+2019-04-29 16:31:24,130 - test_login - INFO - 开始测试不输入手机号码，密码 - do_logging.py: 44 
+2019-04-29 16:31:24,261 - test_login - INFO - 结束测试不输入手机号码，密码 - do_logging.py: 44 
+2019-04-29 16:31:24,263 - test_login - INFO - 测试后置处理 - do_logging.py: 44 
+2019-04-29 16:35:12,019 - __main__ - INFO - 输出测试info - do_logging.py: 44 
+2019-04-29 16:35:12,022 - __main__ - ERROR - 输出测试error - do_logging.py: 48 
+2019-04-29 16:35:12,023 - __main__ - WARNING - 输出测试warning - do_logging.py: 46 
+20-2019-04-29 16:37:32,836-输出测试info
+40-2019-04-29 16:37:32,838-输出测试error
+30-2019-04-29 16:37:32,839-输出测试warning
+2019-04-29 16:38:03,946 - __main__ - INFO - 输出测试info - do_logging.py:  44
+2019-04-29 16:38:03,948 - __main__ - ERROR - 输出测试error - do_logging.py:  48
+2019-04-29 16:38:03,949 - __main__ - WARNING - 输出测试warning - do_logging.py:  46
+2019-04-29 16:45:17,241 - test_login - INFO - 准备测试前置 - test_login.py:  61
+2019-04-29 16:45:17,242 - test_login - INFO - 开始测试正常登陆 - test_login.py:  67
+2019-04-29 16:45:17,422 - test_login - INFO - 结束测试正常登陆 - test_login.py:  79
+2019-04-29 16:45:17,423 - test_login - INFO - 开始测试输入错误的密码 - test_login.py:  67
+2019-04-29 16:45:17,527 - test_login - INFO - 结束测试输入错误的密码 - test_login.py:  79
+2019-04-29 16:45:17,527 - test_login - INFO - 开始测试不输入密码 - test_login.py:  67
+2019-04-29 16:45:17,631 - test_login - INFO - 结束测试不输入密码 - test_login.py:  79
+2019-04-29 16:45:17,632 - test_login - INFO - 开始测试不输入手机号码 - test_login.py:  67
+2019-04-29 16:45:17,733 - test_login - INFO - 结束测试不输入手机号码 - test_login.py:  79
+2019-04-29 16:45:17,734 - test_login - INFO - 开始测试不输入手机号码，密码 - test_login.py:  67
+2019-04-29 16:45:17,837 - test_login - INFO - 结束测试不输入手机号码，密码 - test_login.py:  79
+2019-04-29 16:45:17,838 - test_login - INFO - 测试后置处理 - test_login.py:  83
+2019-04-29 16:57:54,809 - test_login - INFO - 准备测试前置 - do_logging.py:  44
+2019-04-29 16:57:54,814 - test_login - INFO - 开始测试正常登陆 - do_logging.py:  44
+2019-04-29 16:57:55,008 - test_login - INFO - 结束测试正常登陆 - do_logging.py:  44
+2019-04-29 16:57:55,010 - test_login - INFO - 开始测试输入错误的密码 - do_logging.py:  44
+2019-04-29 16:57:55,146 - test_login - INFO - 结束测试输入错误的密码 - do_logging.py:  44
+2019-04-29 16:57:55,148 - test_login - INFO - 开始测试不输入密码 - do_logging.py:  44
+2019-04-29 16:57:55,315 - test_login - INFO - 结束测试不输入密码 - do_logging.py:  44
+2019-04-29 16:57:55,317 - test_login - INFO - 开始测试不输入手机号码 - do_logging.py:  44
+2019-04-29 16:57:55,464 - test_login - INFO - 结束测试不输入手机号码 - do_logging.py:  44
+2019-04-29 16:57:55,467 - test_login - INFO - 开始测试不输入手机号码，密码 - do_logging.py:  44
+2019-04-29 16:57:55,618 - test_login - INFO - 结束测试不输入手机号码，密码 - do_logging.py:  44
+2019-04-29 16:57:55,619 - test_login - INFO - 测试后置处理 - do_logging.py:  44
+2019-04-29 17:04:49,725 - test_login - INFO - 准备测试前置 - do_logging.py:  44
+2019-04-29 17:04:49,728 - test_login - INFO - 开始测试正常登陆 - do_logging.py:  44
+2019-04-29 17:04:49,913 - test_login - INFO - 结束测试正常登陆 - do_logging.py:  44
+2019-04-29 17:04:49,914 - test_login - INFO - 开始测试输入错误的密码 - do_logging.py:  44
+2019-04-29 17:04:50,026 - test_login - INFO - 结束测试输入错误的密码 - do_logging.py:  44
+2019-04-29 17:04:50,028 - test_login - INFO - 开始测试不输入密码 - do_logging.py:  44
+2019-04-29 17:04:50,137 - test_login - INFO - 结束测试不输入密码 - do_logging.py:  44
+2019-04-29 17:04:50,139 - test_login - INFO - 开始测试不输入手机号码 - do_logging.py:  44
+2019-04-29 17:04:50,271 - test_login - INFO - 结束测试不输入手机号码 - do_logging.py:  44
+2019-04-29 17:04:50,274 - test_login - INFO - 开始测试不输入手机号码，密码 - do_logging.py:  44
+2019-04-29 17:04:50,384 - test_login - INFO - 结束测试不输入手机号码，密码 - do_logging.py:  44
+2019-04-29 17:04:50,386 - test_login - INFO - 测试后置处理 - do_logging.py:  44
+2019-04-29 17:07:55,564 - test_login - INFO - 准备测试前置 - do_logging.py:  44
+2019-04-29 17:07:55,567 - test_login - INFO - 开始测试正常登陆 - do_logging.py:  44
+2019-04-29 17:07:55,762 - test_login - INFO - 结束测试正常登陆 - do_logging.py:  44
+2019-04-29 17:07:55,764 - test_login - INFO - 开始测试输入错误的密码 - do_logging.py:  44
+2019-04-29 17:07:55,961 - test_login - INFO - 结束测试输入错误的密码 - do_logging.py:  44
+2019-04-29 17:07:55,963 - test_login - INFO - 开始测试不输入密码 - do_logging.py:  44
+2019-04-29 17:07:56,108 - test_login - INFO - 结束测试不输入密码 - do_logging.py:  44
+2019-04-29 17:07:56,110 - test_login - INFO - 开始测试不输入手机号码 - do_logging.py:  44
+2019-04-29 17:07:56,255 - test_login - INFO - 结束测试不输入手机号码 - do_logging.py:  44
+2019-04-29 17:07:56,258 - test_login - INFO - 开始测试不输入手机号码，密码 - do_logging.py:  44
+2019-04-29 17:07:56,408 - test_login - INFO - 结束测试不输入手机号码，密码 - do_logging.py:  44
+2019-04-29 17:07:56,410 - test_login - INFO - 测试后置处理 - do_logging.py:  44
+2019-04-29 17:15:12,171 - test_login - INFO - ׼������ǰ�� - do_logging.py:  44
+2019-04-29 17:15:12,199 - test_login - INFO - ��ʼ����������½ - do_logging.py:  44
+2019-04-29 17:15:12,426 - test_login - INFO - ��������������½ - do_logging.py:  44
+2019-04-29 17:15:12,427 - test_login - INFO - ��ʼ���������������� - do_logging.py:  44
+2019-04-29 17:15:12,548 - test_login - INFO - �������������������� - do_logging.py:  44
+2019-04-29 17:15:12,550 - test_login - INFO - ��ʼ���Բ��������� - do_logging.py:  44
+2019-04-29 17:15:12,672 - test_login - INFO - �������Բ��������� - do_logging.py:  44
+2019-04-29 17:15:12,674 - test_login - INFO - ��ʼ���Բ������ֻ����� - do_logging.py:  44
+2019-04-29 17:15:12,789 - test_login - INFO - �������Բ������ֻ����� - do_logging.py:  44
+2019-04-29 17:15:12,792 - test_login - INFO - ��ʼ���Բ������ֻ����룬���� - do_logging.py:  44
+2019-04-29 17:15:12,913 - test_login - INFO - �������Բ������ֻ����룬���� - do_logging.py:  44
+2019-04-29 17:15:12,914 - test_login - INFO - ���Ժ��ô��� - do_logging.py:  44
+2019-04-29 17:20:32,695 - test_login - INFO - 准备测试前置 - test_login.py:  61
+2019-04-29 17:20:32,697 - test_login - INFO - 开始测试正常登陆 - test_login.py:  67
+2019-04-29 17:20:32,873 - test_login - INFO - 结束测试正常登陆 - test_login.py:  79
+2019-04-29 17:20:32,873 - test_login - INFO - 开始测试输入错误的密码 - test_login.py:  67
+2019-04-29 17:20:32,985 - test_login - INFO - 结束测试输入错误的密码 - test_login.py:  79
+2019-04-29 17:20:32,986 - test_login - INFO - 开始测试不输入密码 - test_login.py:  67
+2019-04-29 17:20:33,092 - test_login - INFO - 结束测试不输入密码 - test_login.py:  79
+2019-04-29 17:20:33,093 - test_login - INFO - 开始测试不输入手机号码 - test_login.py:  67
+2019-04-29 17:20:33,198 - test_login - INFO - 结束测试不输入手机号码 - test_login.py:  79
+2019-04-29 17:20:33,199 - test_login - INFO - 开始测试不输入手机号码，密码 - test_login.py:  67
+2019-04-29 17:20:33,320 - test_login - INFO - 结束测试不输入手机号码，密码 - test_login.py:  79
+2019-04-29 17:20:33,321 - test_login - INFO - 测试后置处理 - test_login.py:  83
+2019-04-29 21:07:23,825 - API_03.testcases.test_login - INFO - 准备测试前置 - test_login.py:  61
+2019-04-29 21:07:23,827 - API_03.testcases.test_login - INFO - 开始测试正常登陆 - test_login.py:  67
+2019-04-29 21:07:24,443 - API_03.testcases.test_login - INFO - 结束测试正常登陆 - test_login.py:  79
+2019-04-29 21:07:24,444 - API_03.testcases.test_login - INFO - 开始测试输入错误的密码 - test_login.py:  67
+2019-04-29 21:07:24,902 - API_03.testcases.test_login - INFO - 结束测试输入错误的密码 - test_login.py:  79
+2019-04-29 21:07:24,904 - API_03.testcases.test_login - INFO - 开始测试不输入密码 - test_login.py:  67
+2019-04-29 21:07:25,414 - API_03.testcases.test_login - INFO - 结束测试不输入密码 - test_login.py:  79
+2019-04-29 21:07:25,415 - API_03.testcases.test_login - INFO - 开始测试不输入手机号码 - test_login.py:  67
+2019-04-29 21:07:25,954 - API_03.testcases.test_login - INFO - 结束测试不输入手机号码 - test_login.py:  79
+2019-04-29 21:07:25,955 - API_03.testcases.test_login - INFO - 开始测试不输入手机号码，密码 - test_login.py:  67
+2019-04-29 21:07:26,326 - API_03.testcases.test_login - INFO - 结束测试不输入手机号码，密码 - test_login.py:  79
+2019-04-29 21:07:26,327 - API_03.testcases.test_login - INFO - 测试后置处理 - test_login.py:  83
+2019-04-29 23:05:38,442 - test_registers - INFO - 准备测试前置 - test_registers.py:  31
+2019-04-29 23:05:39,654 - test_registers - INFO - 测试结束:注册成功 - test_registers.py:  66
+2019-04-29 23:05:40,087 - test_registers - INFO - 测试结束:输入错误密码 - test_registers.py:  66
+2019-04-29 23:05:40,477 - test_registers - INFO - 测试结束:手机号码为空 - test_registers.py:  66
+2019-04-29 23:05:40,947 - test_registers - INFO - 测试结束:手机号码为10位 - test_registers.py:  66
+2019-04-29 23:05:41,398 - test_registers - INFO - 测试结束:密码为5位 - test_registers.py:  66
+2019-04-29 23:05:41,814 - test_registers - INFO - 测试结束:密码为19位 - test_registers.py:  66
+2019-04-29 23:05:42,239 - test_registers - INFO - 测试结束:手机号，密码都为空 - test_registers.py:  66
+2019-04-29 23:05:42,240 - test_registers - INFO - 测试后置处理 - test_registers.py:  69
+2019-04-29 23:13:14,030 - test_recharge - INFO - 准备测试前置 - test_recharge.py:  21
+2019-04-29 23:13:14,457 - test_recharge - INFO - 开始测试:正常登陆 - test_recharge.py:  29
+2019-04-29 23:13:14,812 - test_recharge - INFO - 测试结束:正常登陆 - test_recharge.py:  56
+2019-04-29 23:13:14,814 - test_recharge - INFO - 开始测试:正常充值 - test_recharge.py:  29
+2019-04-29 23:13:15,343 - test_recharge - INFO - 测试结束:正常充值 - test_recharge.py:  56
+2019-04-29 23:13:15,345 - test_recharge - INFO - 开始测试:充值数额为空 - test_recharge.py:  29
+2019-04-29 23:13:15,653 - test_recharge - INFO - 测试结束:充值数额为空 - test_recharge.py:  56
+2019-04-29 23:13:15,655 - test_recharge - INFO - 开始测试:充值数额为0 - test_recharge.py:  29
+2019-04-29 23:13:15,952 - test_recharge - INFO - 测试结束:充值数额为0 - test_recharge.py:  56
+2019-04-29 23:13:15,954 - test_recharge - INFO - 开始测试:充值数额为500001 - test_recharge.py:  29
+2019-04-29 23:13:16,393 - test_recharge - INFO - 测试结束:充值数额为500001 - test_recharge.py:  56
+2019-04-29 23:13:16,395 - test_recharge - INFO - 开始测试:充值数额为负数 - test_recharge.py:  29
+2019-04-29 23:13:16,849 - test_recharge - INFO - 测试结束:充值数额为负数 - test_recharge.py:  56
+2019-04-29 23:13:16,851 - test_recharge - INFO - 开始测试:输入错误手机号 - test_recharge.py:  29
+2019-04-29 23:13:17,238 - test_recharge - INFO - 测试结束:输入错误手机号 - test_recharge.py:  56
+2019-04-29 23:13:17,240 - test_recharge - INFO - 开始测试:充值数额为500.001 - test_recharge.py:  29
+2019-04-29 23:13:17,642 - test_recharge - INFO - 测试结束:充值数额为500.001 - test_recharge.py:  56
+2019-04-29 23:13:17,644 - test_recharge - INFO - 开始测试:输入与登录账号不同的会员名 - test_recharge.py:  29
+2019-04-29 23:13:18,047 - test_recharge - INFO - 测试结束:输入与登录账号不同的会员名 - test_recharge.py:  56
+2019-04-29 23:13:18,049 - test_recharge - INFO - 测试后置处理 - test_recharge.py:  59
+2019-04-29 23:19:36,664 - test_bidloan - INFO - 准备测试前置 - test_bidloan.py:  25
+2019-04-29 23:19:36,904 - test_bidloan - INFO - 开始测试:正常登陆 - test_bidloan.py:  32
+2019-04-29 23:19:37,252 - test_bidloan - INFO - 测试报错:'20111' != '10001'
+- 20111
++ 10001
+ - test_bidloan.py:  61
+2019-04-29 23:19:37,260 - test_bidloan - INFO - 开始测试:管理员加标 - test_bidloan.py:  32
+2019-04-29 23:19:37,694 - test_bidloan - INFO - 测试报错:None != '10001' - test_bidloan.py:  61
+2019-04-29 23:19:37,700 - test_bidloan - INFO - 开始测试:管理员审核 - test_bidloan.py:  32
+2019-04-29 23:19:38,164 - test_bidloan - INFO - 测试报错:None != '10001' - test_bidloan.py:  61
+2019-04-29 23:19:38,170 - test_bidloan - INFO - 开始测试:投资人正常登陆 - test_bidloan.py:  32
+2019-04-29 23:19:38,578 - test_bidloan - INFO - 测试报错:'20111' != '10001'
+- 20111
++ 10001
+ - test_bidloan.py:  61
+2019-04-29 23:19:38,584 - test_bidloan - INFO - 开始测试:投资金额为0 - test_bidloan.py:  32
+2019-04-29 23:19:39,059 - test_bidloan - INFO - 测试报错:None != '11007' - test_bidloan.py:  61
+2019-04-29 23:19:39,064 - test_bidloan - INFO - 开始测试:正常投资 - test_bidloan.py:  32
+2019-04-29 23:19:39,609 - test_bidloan - INFO - 测试报错:None != '10001' - test_bidloan.py:  61
+2019-04-29 23:19:39,616 - test_bidloan - INFO - 开始测试:密码错误 - test_bidloan.py:  32
+2019-04-29 23:19:40,066 - test_bidloan - INFO - 测试报错:None != '11006' - test_bidloan.py:  61
+2019-04-29 23:19:40,072 - test_bidloan - INFO - 开始测试:不存在该用户 - test_bidloan.py:  32
+2019-04-29 23:19:40,469 - test_bidloan - INFO - 测试报错:None != '11008' - test_bidloan.py:  61
+2019-04-29 23:19:40,473 - test_bidloan - INFO - 开始测试:不存在该标 - test_bidloan.py:  32
+2019-04-29 23:19:40,884 - test_bidloan - INFO - 测试报错:None != '11009' - test_bidloan.py:  61
+2019-04-29 23:19:40,888 - test_bidloan - INFO - 开始测试:投资金额为负数 - test_bidloan.py:  32
+2019-04-29 23:19:41,356 - test_bidloan - INFO - 测试报错:None != '11007' - test_bidloan.py:  61
+2019-04-29 23:19:41,362 - test_bidloan - INFO - 开始测试:充值数额为455 - test_bidloan.py:  32
+2019-04-29 23:19:41,825 - test_bidloan - INFO - 测试报错:None != '11007' - test_bidloan.py:  61
+2019-04-29 23:19:41,831 - test_bidloan - INFO - 开始测试:输入与登录账号不同的会员名 - test_bidloan.py:  32
+2019-04-29 23:19:42,272 - test_bidloan - INFO - 测试报错:None != '11008' - test_bidloan.py:  61
+2019-04-29 23:19:42,277 - test_bidloan - INFO - 开始测试:所有参数为空 - test_bidloan.py:  32
+2019-04-29 23:19:42,681 - test_bidloan - INFO - 测试报错:None != '11003' - test_bidloan.py:  61
+2019-04-29 23:19:42,685 - test_bidloan - INFO - 测试后置处理 - test_bidloan.py:  66
+2019-04-29 23:22:53,012 - test_bidloan - INFO - 准备测试前置 - test_bidloan.py:  25
+2019-04-29 23:22:53,213 - test_bidloan - INFO - 开始测试:正常登陆 - test_bidloan.py:  32
+2019-04-29 23:22:53,679 - test_bidloan - INFO - 测试结束:正常登陆 - test_bidloan.py:  63
+2019-04-29 23:22:53,682 - test_bidloan - INFO - 开始测试:管理员加标 - test_bidloan.py:  32
+2019-04-29 23:22:54,186 - test_bidloan - INFO - 测试结束:管理员加标 - test_bidloan.py:  63
+2019-04-29 23:22:54,188 - test_bidloan - INFO - 开始测试:管理员审核 - test_bidloan.py:  32
+2019-04-29 23:22:54,604 - test_bidloan - INFO - 测试结束:管理员审核 - test_bidloan.py:  63
+2019-04-29 23:22:54,606 - test_bidloan - INFO - 开始测试:投资人正常登陆 - test_bidloan.py:  32
+2019-04-29 23:22:55,005 - test_bidloan - INFO - 测试结束:投资人正常登陆 - test_bidloan.py:  63
+2019-04-29 23:22:55,007 - test_bidloan - INFO - 开始测试:投资金额为0 - test_bidloan.py:  32
+2019-04-29 23:22:55,409 - test_bidloan - INFO - 测试结束:投资金额为0 - test_bidloan.py:  63
+2019-04-29 23:22:55,411 - test_bidloan - INFO - 开始测试:正常投资 - test_bidloan.py:  32
+2019-04-29 23:22:56,017 - test_bidloan - INFO - 测试结束:正常投资 - test_bidloan.py:  63
+2019-04-29 23:22:56,019 - test_bidloan - INFO - 开始测试:密码错误 - test_bidloan.py:  32
+2019-04-29 23:22:56,431 - test_bidloan - INFO - 测试报错:'' != '11006'
++ 11006 - test_bidloan.py:  61
+2019-04-29 23:22:56,441 - test_bidloan - INFO - 开始测试:不存在该用户 - test_bidloan.py:  32
+2019-04-29 23:22:56,846 - test_bidloan - INFO - 测试结束:不存在该用户 - test_bidloan.py:  63
+2019-04-29 23:22:56,849 - test_bidloan - INFO - 开始测试:不存在该标 - test_bidloan.py:  32
+2019-04-29 23:22:57,294 - test_bidloan - INFO - 测试报错:'10001' != '11009'
+- 10001
++ 11009
+ - test_bidloan.py:  61
+2019-04-29 23:22:57,300 - test_bidloan - INFO - 开始测试:投资金额为负数 - test_bidloan.py:  32
+2019-04-29 23:22:57,714 - test_bidloan - INFO - 测试结束:投资金额为负数 - test_bidloan.py:  63
+2019-04-29 23:22:57,716 - test_bidloan - INFO - 开始测试:充值数额为455 - test_bidloan.py:  32
+2019-04-29 23:22:58,118 - test_bidloan - INFO - 测试结束:充值数额为455 - test_bidloan.py:  63
+2019-04-29 23:22:58,120 - test_bidloan - INFO - 开始测试:输入与登录账号不同的会员名 - test_bidloan.py:  32
+2019-04-29 23:22:58,517 - test_bidloan - INFO - 测试结束:输入与登录账号不同的会员名 - test_bidloan.py:  63
+2019-04-29 23:22:58,519 - test_bidloan - INFO - 开始测试:所有参数为空 - test_bidloan.py:  32
+2019-04-29 23:22:58,916 - test_bidloan - INFO - 测试结束:所有参数为空 - test_bidloan.py:  63
+2019-04-29 23:22:58,917 - test_bidloan - INFO - 测试后置处理 - test_bidloan.py:  66
+2019-04-29 23:32:02,529 - test_add - INFO - 准备测试前置 - test_add.py:  27
+2019-04-29 23:32:02,763 - test_add - INFO - 开始测试:正常登陆 - test_add.py:  34
+2019-04-29 23:32:02,979 - test_add - INFO - 开始测试:借款成功 - test_add.py:  34
+2019-04-29 23:32:03,149 - test_add - INFO - 开始测试:利率为0 - test_add.py:  34
+2019-04-29 23:32:03,303 - test_add - INFO - 开始测试:参数为空 - test_add.py:  34
+2019-04-29 23:32:03,448 - test_add - INFO - 开始测试:不存在该会员 - test_add.py:  34
+2019-04-29 23:32:03,609 - test_add - INFO - 开始测试:利率为25 - test_add.py:  34
+2019-04-29 23:32:03,759 - test_add - INFO - 开始测试:借款金额为负数 - test_add.py:  34
+2019-04-29 23:32:03,906 - test_add - INFO - 开始测试:借款数额为455 - test_add.py:  34
+2019-04-29 23:32:04,050 - test_add - INFO - 开始测试:借款期限为3 - test_add.py:  34
+2019-04-29 23:32:04,203 - test_add - INFO - 开始测试:输入非数值参数 - test_add.py:  34
+2019-04-29 23:32:04,346 - test_add - INFO - 测试后置处理 - test_add.py:  55
+2019-04-29 23:32:32,865 - test_add - INFO - 准备测试前置 - test_add.py:  27
+2019-04-29 23:32:33,068 - test_add - INFO - 开始测试:正常登陆 - test_add.py:  34
+2019-04-29 23:32:33,633 - test_add - INFO - 测试结束:正常登陆 - test_add.py:  52
+2019-04-29 23:32:33,634 - test_add - INFO - 开始测试:借款成功 - test_add.py:  34
+2019-04-29 23:32:34,296 - test_add - INFO - 测试结束:借款成功 - test_add.py:  52
+2019-04-29 23:32:34,298 - test_add - INFO - 开始测试:利率为0 - test_add.py:  34
+2019-04-29 23:32:34,843 - test_add - INFO - 测试结束:利率为0 - test_add.py:  52
+2019-04-29 23:32:34,845 - test_add - INFO - 开始测试:参数为空 - test_add.py:  34
+2019-04-29 23:32:35,372 - test_add - INFO - 测试结束:参数为空 - test_add.py:  52
+2019-04-29 23:32:35,374 - test_add - INFO - 开始测试:不存在该会员 - test_add.py:  34
+2019-04-29 23:32:36,029 - test_add - INFO - 测试结束:不存在该会员 - test_add.py:  52
+2019-04-29 23:32:36,031 - test_add - INFO - 开始测试:利率为25 - test_add.py:  34
+2019-04-29 23:32:36,592 - test_add - INFO - 测试结束:利率为25 - test_add.py:  52
+2019-04-29 23:32:36,594 - test_add - INFO - 开始测试:借款金额为负数 - test_add.py:  34
+2019-04-29 23:32:37,099 - test_add - INFO - 测试结束:借款金额为负数 - test_add.py:  52
+2019-04-29 23:32:37,101 - test_add - INFO - 开始测试:借款数额为455 - test_add.py:  34
+2019-04-29 23:32:37,670 - test_add - INFO - 测试结束:借款数额为455 - test_add.py:  52
+2019-04-29 23:32:37,673 - test_add - INFO - 开始测试:借款期限为3 - test_add.py:  34
+2019-04-29 23:32:38,266 - test_add - INFO - 测试结束:借款期限为3 - test_add.py:  52
+2019-04-29 23:32:38,268 - test_add - INFO - 开始测试:输入非数值参数 - test_add.py:  34
+2019-04-29 23:32:38,888 - test_add - INFO - 测试结束:输入非数值参数 - test_add.py:  52
+2019-04-29 23:32:38,890 - test_add - INFO - 测试后置处理 - test_add.py:  55
+2019-04-29 23:35:48,915 - test_add - INFO - 准备测试前置 - test_add.py:  27
+2019-04-29 23:35:49,111 - test_add - INFO - 开始测试:正常登陆 - test_add.py:  34
+2019-04-29 23:35:49,671 - test_add - INFO - 测试结束:正常登陆 - test_add.py:  52
+2019-04-29 23:35:49,672 - test_add - INFO - 开始测试:借款成功 - test_add.py:  34
+2019-04-29 23:35:50,276 - test_add - INFO - 测试结束:借款成功 - test_add.py:  52
+2019-04-29 23:35:50,277 - test_add - INFO - 开始测试:利率为0 - test_add.py:  34
+2019-04-29 23:35:50,781 - test_add - INFO - 测试结束:利率为0 - test_add.py:  52
+2019-04-29 23:35:50,782 - test_add - INFO - 开始测试:参数为空 - test_add.py:  34
+2019-04-29 23:35:51,277 - test_add - INFO - 测试结束:参数为空 - test_add.py:  52
+2019-04-29 23:35:51,278 - test_add - INFO - 开始测试:不存在该会员 - test_add.py:  34
+2019-04-29 23:35:51,776 - test_add - INFO - 测试结束:不存在该会员 - test_add.py:  52
+2019-04-29 23:35:51,777 - test_add - INFO - 开始测试:利率为25 - test_add.py:  34
+2019-04-29 23:35:52,253 - test_add - INFO - 测试结束:利率为25 - test_add.py:  52
+2019-04-29 23:35:52,254 - test_add - INFO - 开始测试:借款金额为负数 - test_add.py:  34
+2019-04-29 23:35:52,746 - test_add - INFO - 测试结束:借款金额为负数 - test_add.py:  52
+2019-04-29 23:35:52,747 - test_add - INFO - 开始测试:借款数额为455 - test_add.py:  34
+2019-04-29 23:35:53,232 - test_add - INFO - 测试结束:借款数额为455 - test_add.py:  52
+2019-04-29 23:35:53,233 - test_add - INFO - 开始测试:借款期限为3 - test_add.py:  34
+2019-04-29 23:35:53,729 - test_add - INFO - 测试结束:借款期限为3 - test_add.py:  52
+2019-04-29 23:35:53,730 - test_add - INFO - 开始测试:输入非数值参数 - test_add.py:  34
+2019-04-29 23:35:54,235 - test_add - INFO - 测试结束:输入非数值参数 - test_add.py:  52
+2019-04-29 23:35:54,236 - test_add - INFO - 测试后置处理 - test_add.py:  55
+2019-04-29 23:35:54,238 - test_bidloan - INFO - 准备测试前置 - test_bidloan.py:  25
+2019-04-29 23:35:54,412 - test_bidloan - INFO - 开始测试:正常登陆 - test_bidloan.py:  32
+2019-04-29 23:35:54,867 - test_bidloan - INFO - 测试结束:正常登陆 - test_bidloan.py:  63
+2019-04-29 23:35:54,868 - test_bidloan - INFO - 开始测试:管理员加标 - test_bidloan.py:  32
+2019-04-29 23:35:55,378 - test_bidloan - INFO - 测试结束:管理员加标 - test_bidloan.py:  63
+2019-04-29 23:35:55,379 - test_bidloan - INFO - 开始测试:管理员审核 - test_bidloan.py:  32
+2019-04-29 23:35:55,755 - test_bidloan - INFO - 测试结束:管理员审核 - test_bidloan.py:  63
+2019-04-29 23:35:55,756 - test_bidloan - INFO - 开始测试:投资人正常登陆 - test_bidloan.py:  32
+2019-04-29 23:35:56,098 - test_bidloan - INFO - 测试结束:投资人正常登陆 - test_bidloan.py:  63
+2019-04-29 23:35:56,099 - test_bidloan - INFO - 开始测试:投资金额为0 - test_bidloan.py:  32
+2019-04-29 23:35:56,418 - test_bidloan - INFO - 测试结束:投资金额为0 - test_bidloan.py:  63
+2019-04-29 23:35:56,419 - test_bidloan - INFO - 开始测试:正常投资 - test_bidloan.py:  32
+2019-04-29 23:35:57,029 - test_bidloan - INFO - 测试结束:正常投资 - test_bidloan.py:  63
+2019-04-29 23:35:57,030 - test_bidloan - INFO - 开始测试:密码错误 - test_bidloan.py:  32
+2019-04-29 23:35:57,451 - test_bidloan - INFO - 测试报错:'' != '11006'
++ 11006 - test_bidloan.py:  61
+2019-04-29 23:35:57,454 - test_bidloan - INFO - 开始测试:不存在该用户 - test_bidloan.py:  32
+2019-04-29 23:35:57,878 - test_bidloan - INFO - 测试结束:不存在该用户 - test_bidloan.py:  63
+2019-04-29 23:35:57,879 - test_bidloan - INFO - 开始测试:不存在该标 - test_bidloan.py:  32
+2019-04-29 23:35:58,330 - test_bidloan - INFO - 测试报错:'10001' != '11009'
+- 10001
++ 11009
+ - test_bidloan.py:  61
+2019-04-29 23:35:58,332 - test_bidloan - INFO - 开始测试:投资金额为负数 - test_bidloan.py:  32
+2019-04-29 23:35:58,812 - test_bidloan - INFO - 测试结束:投资金额为负数 - test_bidloan.py:  63
+2019-04-29 23:35:58,813 - test_bidloan - INFO - 开始测试:充值数额为455 - test_bidloan.py:  32
+2019-04-29 23:35:59,212 - test_bidloan - INFO - 测试结束:充值数额为455 - test_bidloan.py:  63
+2019-04-29 23:35:59,213 - test_bidloan - INFO - 开始测试:输入与登录账号不同的会员名 - test_bidloan.py:  32
+2019-04-29 23:35:59,614 - test_bidloan - INFO - 测试结束:输入与登录账号不同的会员名 - test_bidloan.py:  63
+2019-04-29 23:35:59,615 - test_bidloan - INFO - 开始测试:所有参数为空 - test_bidloan.py:  32
+2019-04-29 23:36:00,017 - test_bidloan - INFO - 测试结束:所有参数为空 - test_bidloan.py:  63
+2019-04-29 23:36:00,018 - test_bidloan - INFO - 测试后置处理 - test_bidloan.py:  66
+2019-04-29 23:36:00,020 - test_login - INFO - 准备测试前置 - test_login.py:  61
+2019-04-29 23:36:00,021 - test_login - INFO - 开始测试正常登陆 - test_login.py:  67
+2019-04-29 23:36:00,474 - test_login - INFO - 结束测试正常登陆 - test_login.py:  79
+2019-04-29 23:36:00,475 - test_login - INFO - 开始测试输入错误的密码 - test_login.py:  67
+2019-04-29 23:36:00,846 - test_login - INFO - 结束测试输入错误的密码 - test_login.py:  79
+2019-04-29 23:36:00,847 - test_login - INFO - 开始测试不输入密码 - test_login.py:  67
+2019-04-29 23:36:01,237 - test_login - INFO - 结束测试不输入密码 - test_login.py:  79
+2019-04-29 23:36:01,238 - test_login - INFO - 开始测试不输入手机号码 - test_login.py:  67
+2019-04-29 23:36:01,647 - test_login - INFO - 结束测试不输入手机号码 - test_login.py:  79
+2019-04-29 23:36:01,648 - test_login - INFO - 开始测试不输入手机号码，密码 - test_login.py:  67
+2019-04-29 23:36:02,049 - test_login - INFO - 结束测试不输入手机号码，密码 - test_login.py:  79
+2019-04-29 23:36:02,049 - test_login - INFO - 测试后置处理 - test_login.py:  83
+2019-04-29 23:36:02,051 - test_recharge - INFO - 准备测试前置 - test_recharge.py:  24
+2019-04-29 23:36:02,227 - test_recharge - INFO - 开始测试:正常登陆 - test_recharge.py:  32
+2019-04-29 23:36:02,696 - test_recharge - INFO - 测试结束:正常登陆 - test_recharge.py:  59
+2019-04-29 23:36:02,697 - test_recharge - INFO - 开始测试:正常充值 - test_recharge.py:  32
+2019-04-29 23:36:03,313 - test_recharge - INFO - 测试结束:正常充值 - test_recharge.py:  59
+2019-04-29 23:36:03,314 - test_recharge - INFO - 开始测试:充值数额为空 - test_recharge.py:  32
+2019-04-29 23:36:03,715 - test_recharge - INFO - 测试结束:充值数额为空 - test_recharge.py:  59
+2019-04-29 23:36:03,716 - test_recharge - INFO - 开始测试:充值数额为0 - test_recharge.py:  32
+2019-04-29 23:36:04,158 - test_recharge - INFO - 测试结束:充值数额为0 - test_recharge.py:  59
+2019-04-29 23:36:04,159 - test_recharge - INFO - 开始测试:充值数额为500001 - test_recharge.py:  32
+2019-04-29 23:36:04,553 - test_recharge - INFO - 测试结束:充值数额为500001 - test_recharge.py:  59
+2019-04-29 23:36:04,555 - test_recharge - INFO - 开始测试:充值数额为负数 - test_recharge.py:  32
+2019-04-29 23:36:04,983 - test_recharge - INFO - 测试结束:充值数额为负数 - test_recharge.py:  59
+2019-04-29 23:36:04,984 - test_recharge - INFO - 开始测试:输入错误手机号 - test_recharge.py:  32
+2019-04-29 23:36:05,482 - test_recharge - INFO - 测试结束:输入错误手机号 - test_recharge.py:  59
+2019-04-29 23:36:05,483 - test_recharge - INFO - 开始测试:充值数额为500.001 - test_recharge.py:  32
+2019-04-29 23:36:05,887 - test_recharge - INFO - 测试结束:充值数额为500.001 - test_recharge.py:  59
+2019-04-29 23:36:05,888 - test_recharge - INFO - 开始测试:输入与登录账号不同的会员名 - test_recharge.py:  32
+2019-04-29 23:36:06,257 - test_recharge - INFO - 测试结束:输入与登录账号不同的会员名 - test_recharge.py:  59
+2019-04-29 23:36:06,258 - test_recharge - INFO - 测试后置处理 - test_recharge.py:  63
+2019-04-29 23:36:06,260 - test_registers - INFO - 准备测试前置 - test_registers.py:  31
+2019-04-29 23:36:07,432 - test_registers - INFO - 测试结束:注册成功 - test_registers.py:  66
+2019-04-29 23:36:07,887 - test_registers - INFO - 测试结束:输入错误密码 - test_registers.py:  66
+2019-04-29 23:36:08,348 - test_registers - INFO - 测试结束:手机号码为空 - test_registers.py:  66
+2019-04-29 23:36:08,754 - test_registers - INFO - 测试结束:手机号码为10位 - test_registers.py:  66
+2019-04-29 23:36:09,160 - test_registers - INFO - 测试结束:密码为5位 - test_registers.py:  66
+2019-04-29 23:36:09,578 - test_registers - INFO - 测试结束:密码为19位 - test_registers.py:  66
+2019-04-29 23:36:09,991 - test_registers - INFO - 测试结束:手机号，密码都为空 - test_registers.py:  66
+2019-04-29 23:36:09,992 - test_registers - INFO - 测试后置处理 - test_registers.py:  69
