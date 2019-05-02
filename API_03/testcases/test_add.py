@@ -7,13 +7,13 @@ import unittest
 
 from ddt import ddt, data
 
-from APIS_03.common.do_Excel import DoExcel
-from APIS_03.common.do_HTTPrequ import HTTPrequest
-from APIS_03.common.do_contants import case_files
-from APIS_03.common.do_mysql import DoMysql
-from APIS_03.common.do_config import config
-from APIS_03.common.context import replace
-from APIS_03.common.do_logging import GetLogger
+from API_03.common.do_Excel import DoExcel
+from API_03.common.do_HTTPrequ import HTTPrequest
+from API_03.common.do_contants import case_files
+from API_03.common.do_mysql import DoMysql
+from API_03.common.do_config import config
+from API_03.common.context import replace
+from API_03.common.do_logging import GetLogger
 loggor=GetLogger(__name__)
 @ddt
 class AddTest(unittest.TestCase):

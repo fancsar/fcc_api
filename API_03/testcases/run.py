@@ -10,9 +10,9 @@ print(sys.path)
 
 import unittest
 from HTMLTestRunnerNew import HTMLTestRunner
-from APIS_03.testcases import test_login,test_registers
-from APIS_03.common.do_contants import report_dir
-from APIS_03.common.do_contants import case_dir
+from API_03.testcases import test_login,test_registers
+from API_03.common.do_contants import report_dir
+from API_03.common.do_contants import case_dir
 #方法一：
 # suite=unittest.TestSuite()
 # loader=unittest.TestLoader()

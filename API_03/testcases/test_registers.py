@@ -38,7 +38,7 @@ class RegistersTest(unittest.TestCase):
         loggor.debug('开始测试:{}'.format(case.title))
         # 字符串的查找与替换,   查询数据库操作
         if case.data.find('register_mobile') > -1:
-            sql = 'SELECT MobilePhone FROM future.member where MobilePhone=13821774392'
+            sql = 'SELECT MobilePhone FROM future.member where MobilePhone=13821774377'
             # 查询手机号码，返回结果为字典
             max_phone = self.mysql.fetch_one(sql)
             max_phone = int(max_phone['MobilePhone']) + 1
