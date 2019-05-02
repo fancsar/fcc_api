@@ -2,7 +2,12 @@
 #@Time   : 2019/4/29 17:29
 #@Author :xdf_FCC
 #@Email  :670992243@qq.com
-#@File   :run.py 
+#@File   :run.py
+import sys
+sys.path.append('./')
+print(sys.path)
+
+
 import unittest
 from HTMLTestRunnerNew import HTMLTestRunner
 from APIS_03.testcases import test_login,test_registers
